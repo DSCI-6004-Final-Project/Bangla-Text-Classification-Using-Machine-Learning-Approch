@@ -13,7 +13,8 @@ The data cleaning and preprocessing steps included:
 * Removing unnecessary columns
 * Removing punctuation marks
 * Removing noise (Bangla numbers, English lines, URLs, Arabic lines, and emojis)
-* Removing stop words using a publicly available stop word list from Kaggle for the Bangla language
+* Removing stop words using a publicly available stop word list from Kaggle for the Bangla language. The link is given below:
+  https://www.kaggle.com/datasets/nuhashafnan/bangla-stopwords
 * Performing stemming using the Bangla Stemmer library
 ## Feature Extraction
 TF-IDF Vectorization: Term Frequency-Inverse Document Frequency (TF-IDF) Vectorization was used to convert text data into numerical features for machine learning models.
