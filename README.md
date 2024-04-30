@@ -32,3 +32,7 @@ The following machine learning algorithms were applied to the preprocessed text 
 * Multinomial Naïve Bayes: Accuracy of 70.83%
 ## Conclusion
 SVM emerged as the most suitable algorithm for classifying Bangla text comments, achieving the highest accuracy among the tested algorithms. This project demonstrates the effectiveness of machine learning in classifying Bangla text comments and provides insights for future research in text classification for the Bangla language.
+## Usage Instructions
+* Clone the repository
+* Goggle Colab or Install Jupyter Notebook
+* Python
