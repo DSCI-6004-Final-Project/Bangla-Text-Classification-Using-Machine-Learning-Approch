@@ -2,7 +2,8 @@
 This repository contains the code and resources for classifying Bangla text comments into five categories: not bully, sexual, religious, threat, and troll. The project explores the use of various machine learning algorithms for text classification, including Logistic Regression, SVM, Decision Tree, Random Forest, and Multinomial Naïve Bayes.
 
 ## Dataset
-The dataset used for this project can be found here. It contains a total of 44,001 Bangla text comments categorized into the five classes mentioned above.
+The dataset used for this project can be found here. https://data.mendeley.com/datasets/9xjx8twk8p/1
+It contains a total of 44,001 Bangla text comments categorized into the five classes mentioned above.
 
 ## Data Cleaning and Preprocessing
 The data cleaning and preprocessing steps included:
